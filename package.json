@@ -2,7 +2,7 @@
   "author": "John Shepard",
   "name": "riq-shrinkwrap",
   "description": "keep shrink-wrap tidy and consistent",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "https://github.com/jshepard/riq-shrinkwrap"
   },
