@@ -3,7 +3,7 @@ riq-shrinkwrap
 
 Before : (╯°□°）╯︵ ┻━┻
 
-After: ¯\_(ツ)_/¯
+After: ¯\\_(ツ)_/¯
 
 Usage:
 
